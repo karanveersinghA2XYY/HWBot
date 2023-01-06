@@ -161,7 +161,7 @@ HELP_STRINGS = """
 • You can also navigate between the help menu by clicking on left-right arrow.   
 """
 
-DONATE_STRING = """If you want to donate my master then you can cuz he is very poor. [My master](https://t.me/Old_worlds_map) :)"""
+DONATE_STRING = """If you want to donate my master then you can cuz he is very poor. [My master](https://t.me/Old_worlds_map) """
 
 
 IMPORTED = {}
@@ -285,18 +285,18 @@ def start(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Support ✨",
+                            text="🚑 Sᴜᴘᴘᴏʀᴛ",
                             url=f"https://telegram.dog/{SUPPORT_CHAT}",
                         ),
                         InlineKeyboardButton(
-                            text="Updates 🌻",
-                            url=f"https://telegram.dog/{UPDATES_CHANNEL}",
+                            text="⚡ Dᴇᴠᴇʟᴏᴘᴇʀ",
+                            url=f"https://telegram.dog/Old_worlds_map",
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Source 🌐",
-                            url="https://github.com/ArshCypherZ/HWBOT",
+                            text="Lᴏɢs 🌐",
+                            url="https://t.me/Apple_logs",
                         )
                     ],
                 ]

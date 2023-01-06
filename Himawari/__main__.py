@@ -144,7 +144,7 @@ buttons = [
             text="🚑 Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
         InlineKeyboardButton(
-            text="⚡ Dᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/{UPDATES_CHANNEL}"
+            text="⚡ Dᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/Old_worlds_map"
         ),
     ],
 ]

@@ -107,7 +107,7 @@ def get_readable_time(seconds: int) -> str:
 HELP_MSG = "Click the button below to get help menu in your pm hihi~"
 START_MSG = "*Hie Onichwannnn~ UwU* I am well and alive ;)"
 
-HELP_IMG = "https://telegra.ph/file/9dfcdab5244a61b323210.jpg"
+HELP_IMG = "https://te.legra.ph/file/8ecc3963e25887c953257.jpg"
 START_IMG = "https://telegra.ph/file/eb8617465e7a62650f862.jpg"
 
 PM_START_TEXT = f"""

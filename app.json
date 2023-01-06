@@ -179,7 +179,7 @@
       "HEROKU_API_KEY": {
          "description": "Your Heroku API Key from heroku profile",
          "required": true,
-         "value": ""
+         "value": "773b82a1-7598-40ec-b7f5-dbda1d8d7db7"
       },
       "HEROKU_APP_NAME": {
          "description": "Your Heroku APP name",

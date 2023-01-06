@@ -136,7 +136,7 @@ buttons = [
     [
         InlineKeyboardButton(text="📓 Hᴇʟᴘ", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Lᴏɢs 🌐", url="https://github.com/ArshCypherZ/HWBot"
+            text="Lᴏɢs 🌐", url="https://t.me/Apple_logs"
         ),
     ],
     [

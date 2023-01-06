@@ -72,12 +72,12 @@
       "BOT_ID": {
          "description": "Your Telegram Bot ID.",
          "required": true,
-         "value": ""
+         "value": "5837023818"
       },
       "BOT_NAME": {
          "description": "Your Telegram Bot Name.",
          "required": true,
-         "value": ""
+         "value": "Kv"
       },
       "BOT_USERNAME": {
          "description": "Your Telegram Bot UserName without @",

@@ -67,7 +67,7 @@
       "OWNER_ID": {
          "description": "Your Telegram User ID as an integer.",
          "required": true,
-         "value": ""
+         "value": "5820426476"
       },
       "BOT_ID": {
          "description": "Your Telegram Bot ID.",

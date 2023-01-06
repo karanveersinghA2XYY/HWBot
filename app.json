@@ -169,7 +169,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "https://t.me/Old_worlds_map"
       },
       "MONGO_DB_URL": {
          "description": "Your Mongo DB URI",

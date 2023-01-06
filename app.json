@@ -174,7 +174,7 @@
       "MONGO_DB_URL": {
          "description": "Your Mongo DB URI",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://Karan:Karansingh@cluster0.cq1ri5e.mongodb.net/?retryWrites=true&w=majority"
       },
       "HEROKU_API_KEY": {
          "description": "Your Heroku API Key from heroku profile",

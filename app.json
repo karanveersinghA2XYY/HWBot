@@ -32,17 +32,17 @@
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "749c0f57d114d759f2f7b332e41d6e87"
       },
       "APP_ID": {
          "description": "Same as API_ID",
          "required": true,
-         "value": ""
+         "value": "26166438"
       },
       "APP_HASH": {
          "description": "Same as API_HASH",
          "required": true,
-         "value": ""
+         "value": "749c0f57d114d759f2f7b332e41d6e87"
       },  
       "DATABASE_URL": {
          "description": "Your Postgres SQL DataBase URI, Get one from ElephantSQL.com",

@@ -161,7 +161,7 @@ HELP_STRINGS = """
 • You can also navigate between the help menu by clicking on left-right arrow.   
 """
 
-DONATE_STRING = """PM @Arsshh for donating :)"""
+DONATE_STRING = """If you want to donate my master then you can cuz he is very poor. [My master](https://t.me/Old_worlds_map) :)"""
 
 
 IMPORTED = {}

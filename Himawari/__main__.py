@@ -113,8 +113,11 @@ START_IMG = "https://telegra.ph/file/eb8617465e7a62650f862.jpg"
 PM_START_TEXT = f"""
   ────「 [{}](https://te.legra.ph/file/123150e767d057da6b701.jpg) 」────
 *Hᴇʏʏ! {},*
- ───────────────────
+───────────────────
 ๏ I'ᴍ Aɴ Aɴɪᴍᴇ Bᴀsᴇᴅ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ Wɪᴛʜ Sᴏᴍᴇ Usᴇғᴜʟ Fᴇᴀᴛᴜʀᴇs.
+───────────────────
+๏ *Uᴘᴛɪᴍᴇ:* `{}`
+๏ {} *Usᴇʀs, Aᴄʀᴏss* {} *Cʜᴀᴛs.*
 ───────────────────
 Want to see my powers? hehe, use /help or commands button below."""
 

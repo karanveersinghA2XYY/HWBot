@@ -91,7 +91,7 @@
       "SUPPORT_CHAT": {
          "description": "The Telegram Support Group Where Users of your Bot can Go and ask their Questions.",
          "required": true,
-         "value": "SupportGroupName"
+         "value": "ENGLISH_SPEAKERSSS"
       },
      "UPDATES_CHANNEL": {
          "description": "The Telegram News/Update Channel Where Users of your Bot can Go and check updates by you.",

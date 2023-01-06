@@ -82,7 +82,7 @@
       "BOT_USERNAME": {
          "description": "Your Telegram Bot UserName without @",
          "required": true,
-         "value": ""
+         "value": "Cute_Apple7Bot"
       },
       "OWNER_USERNAME": {
          "description": "Your Telegram username without the @",

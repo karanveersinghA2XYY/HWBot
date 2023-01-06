@@ -112,7 +112,7 @@ START_IMG = "https://telegra.ph/file/eb8617465e7a62650f862.jpg"
 
 PM_START_TEXT = f"""
   ────「 [{}](https://te.legra.ph/file/123150e767d057da6b701.jpg) 」────
-Konnichiwa, I am {BOT_NAME}
+*Hᴇʏʏ! {},*
  
 I am an Anime themed group management bot with some fun extras ;)
 

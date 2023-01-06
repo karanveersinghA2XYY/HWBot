@@ -130,21 +130,21 @@ Haven't slept since: {}
 buttons = [
     [
         InlineKeyboardButton(
-            text="Summon Meow ➕", url=f"t.me/{BOT_USERNAME}?startgroup=true"
+            text="➕Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ", url=f"t.me/{BOT_USERNAME}?startgroup=true"
         )
     ],
     [
-        InlineKeyboardButton(text="📓 Commands", callback_data="help_back"),
+        InlineKeyboardButton(text="📓 Hᴇʟᴘ", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Source 🌐", url="https://github.com/ArshCypherZ/HWBot"
+            text="Lᴏɢs 🌐", url="https://github.com/ArshCypherZ/HWBot"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Support 🥂", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="🚑 Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
         InlineKeyboardButton(
-            text="Updates 🏃‍♂️", url=f"https://t.me/{UPDATES_CHANNEL}"
+            text="⚡ Dᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/{UPDATES_CHANNEL}"
         ),
     ],
 ]

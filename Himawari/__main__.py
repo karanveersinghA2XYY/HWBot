@@ -114,7 +114,7 @@ PM_START_TEXT = f"""
   ────「 [{}](https://te.legra.ph/file/123150e767d057da6b701.jpg) 」────
 *Hᴇʏʏ! {},*
  
-I am an Anime themed group management bot with some fun extras ;)
+๏ I'ᴍ Aɴ Aɴɪᴍᴇ Bᴀsᴇᴅ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ Wɪᴛʜ Sᴏᴍᴇ Usᴇғᴜʟ Fᴇᴀᴛᴜʀᴇs.
 
 Want to see my powers? hehe, use /help or commands button below."""
 

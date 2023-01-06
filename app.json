@@ -56,7 +56,7 @@
       }, 
       "REDIS_URL": {
          "description": "Your Redis URL, Get one from redislabs.com",
-         "required": true,
+         "required": false,
          "value": ""
       }, 
      "REM_BG_API_KEY": {

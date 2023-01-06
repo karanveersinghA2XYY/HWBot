@@ -86,7 +86,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your Telegram username without the @",
-         "value": ""
+         "value": "Hm_okk"
       },
       "SUPPORT_CHAT": {
          "description": "The Telegram Support Group Where Users of your Bot can Go and ask their Questions.",

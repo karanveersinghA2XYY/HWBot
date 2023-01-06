@@ -119,7 +119,7 @@ PM_START_TEXT = f"""
 ๏ *Uᴘᴛɪᴍᴇ:* `{}`
 ๏ {} *Usᴇʀs, Aᴄʀᴏss* {} *Cʜᴀᴛs.*
 ───────────────────
-Want to see my powers? hehe, use /help or commands button below."""
+๏ Cʟɪᴄᴋ Oɴ Bᴇʟᴏᴡ Bᴜᴛᴛᴏɴs Fᴏʀ Mᴏʀᴇ Iɴғᴏ & Cᴏᴍᴍᴀɴᴅs."""
 
 
 GROUP_START_TEXT = """

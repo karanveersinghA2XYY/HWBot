@@ -108,7 +108,7 @@ HELP_MSG = "Click the button below to get help menu in your pm hihi~"
 START_MSG = "*Hie Onichwannnn~ UwU* I am well and alive ;)"
 
 HELP_IMG = "https://te.legra.ph/file/8ecc3963e25887c953257.jpg"
-START_IMG = "https://telegra.ph/file/eb8617465e7a62650f862.jpg"
+START_IMG = "https://te.legra.ph/file/1256133ec5a1f2575ef62.jpg"
 
 PM_START_TEXT = f"""
   ────「 [{}](https://te.legra.ph/file/123150e767d057da6b701.jpg) 」────

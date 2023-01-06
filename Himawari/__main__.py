@@ -115,7 +115,7 @@ PM_START_TEXT = f"""
 *Hᴇʏʏ! {},*
  ───────────────────
 ๏ I'ᴍ Aɴ Aɴɪᴍᴇ Bᴀsᴇᴅ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ Wɪᴛʜ Sᴏᴍᴇ Usᴇғᴜʟ Fᴇᴀᴛᴜʀᴇs.
-
+───────────────────
 Want to see my powers? hehe, use /help or commands button below."""
 
 

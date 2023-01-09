@@ -110,7 +110,7 @@ START_MSG = "*Hie Onichwannnn~ UwU* I am well and alive ;)"
 HELP_IMG = "https://te.legra.ph/file/8ecc3963e25887c953257.jpg"
 START_IMG = "https://te.legra.ph/file/1256133ec5a1f2575ef62.jpg"
 
-PM_START_TEXT = f"""
+PM_START_TEXT = """
   ────「 [{}](https://te.legra.ph/file/123150e767d057da6b701.jpg) 」────
 *Hᴇʏʏ! {},*
 ───────────────────

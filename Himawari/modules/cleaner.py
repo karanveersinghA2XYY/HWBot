@@ -276,7 +276,7 @@ Blue text cleaner removed any made up commands that people send in your chat.
 • /unignoreblue <word>*:* remove prevent auto cleaning of the command
 • /listblue*:* list currently whitelisted commands
  
-*Following are* [Disasters](https://t.me/himawariupdates/19) *only commands, admins cannot use these:*
+*Following are* [Disasters](https://t.me/Baka_forum/28/31) *only commands, admins cannot use these:*
  
 • /gignoreblue <word>*:* globally ignorea bluetext cleaning of saved word across {BOT_NAME}.
 • /ungignoreblue <word>*:* remove said command from global cleaning list

@@ -126,7 +126,7 @@ def chatbot(update: Update, context: CallbackContext):
         Message = message.text
         meow = Message.replace(" ", "%20") if " " in Message else Message
         bot.send_chat_action(chat_id, action="typing")
-        kukiurl = requests.get(f'https://bakufuapi.vercel.app/api/chatbot/cleverbot?name=Himawari&owner=Arsh&message={meow}')
+        kukiurl = requests.get(f"http://api.brainshop.ai/get?bid=171693&key=qZsmlB6XQGnKnotE&uid=[user]&msg={message}"
         Kuki = json.loads(kukiurl.text)
         kuki = Kuki['reply']
         sleep(0.3)

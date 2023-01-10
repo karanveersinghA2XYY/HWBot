@@ -150,7 +150,7 @@ __help__ = """
 Chatbot utilizes the Bakufu's Chatbot API which allows Himawari to talk and provide a more interactive group chat experience.
 *Admins only Commands*:
 • /Chatbot*:* Shows chatbot control panel
-*Powered by @BakufuGovt*
+*Powered by @ENGLISH_SPEAKERSSS*
 """
 
 __mod_name__ = "ChatBot"

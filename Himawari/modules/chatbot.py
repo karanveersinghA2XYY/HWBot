@@ -147,7 +147,7 @@ def list_all_chats(update: Update, context: CallbackContext):
     update.effective_message.reply_text(text, parse_mode="HTML")
 
 __help__ = """
-Chatbot utilizes the Bakufu's Chatbot API which allows Himawari to talk and provide a more interactive group chat experience.
+Chatbot utilizes the Kv's Chatbot API which allows Apple to talk and provide a more interactive group chat experience.
 *Admins only Commands*:
 • /Chatbot*:* Shows chatbot control panel
 *Powered by @ENGLISH_SPEAKERSSS*

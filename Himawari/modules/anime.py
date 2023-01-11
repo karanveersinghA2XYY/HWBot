@@ -470,8 +470,7 @@ Get information about anime, manga or characters from [AniList](anilist.co) and 
 • /schedule <weekday>*:* Gets you the anime episodes scheduled to be aired on that day
 Example: /schedule monday or /schedule 0
 
-For more refined and better results, checkout @AnimePizzaBot :)
-         
+For more refined and better results, checkout @Baka_forum
 """
 
 

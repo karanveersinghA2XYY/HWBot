@@ -149,7 +149,7 @@ def list_all_chats(update: Update, context: CallbackContext):
 __help__ = """
 Chatbot utilizes the Kv's Chatbot API which allows Apple to talk and provide a more interactive group chat experience.
 *Admins only Commands*:
-• /Chatbot*:* Shows chatbot control panel
+• `/Chatbot`:* Shows chatbot control panel
 *Powered by @ENGLISH_SPEAKERSSS*
 """
 

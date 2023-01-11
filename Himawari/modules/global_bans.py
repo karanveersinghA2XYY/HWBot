@@ -550,7 +550,7 @@ you and your groups by removing spam flooders as quickly as possible.
 
 This also integrates [Spam API](https://t.me/Baka_forum/28/33) to remove Spammers as much as possible from your chatroom!
 *What is SpamWatch?*
-SpamWatch maintains a large constantly updated ban-list of spambots, trolls, bitcoin spammers and unsavoury characters[.](https://telegra.ph/file/f584b643c6f4be0b1de53.jpg)
+SpamWatch maintains a large constantly updated ban-list of spambots, trolls, bitcoin spammers and unsavoury characters [here](https://te.legra.ph/file/bafc81ad7090841f1eff5.jpg)
 Constantly help banning spammers off from your group automatically So, you wont have to worry about spammers storming your group.
 *Note:* Users can appeal spamwatch bans at @ENGLISH_SPEAKERSSS
 """
